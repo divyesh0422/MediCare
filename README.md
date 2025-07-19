@@ -36,7 +36,7 @@
 
 ### Installation
 ```bash
-git clone https://github.com/divyesh0422/medical-website.git
+git clone https://github.com/divyesh0422/MediCare.git
 cd medical-website
 npm install
 npm run dev
